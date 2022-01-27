@@ -24,17 +24,22 @@ export default function Post({img}) {
         </div>
         <span className="postTitle">
           <Link to="/post/abc" className="link">
-            Lorem ipsum dolor sit amet
+          Next Destination
           </Link>
         </span>
         <hr />
         <span className="postDate">1 hour ago</span>
       </div>
       <p className="postDesc">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-        officia architecto deserunt deleniti? Labore ipsum aspernatur magnam
-        fugiat, reprehenderit praesentium blanditiis quos cupiditate ratione
-        atque, exercitationem quibusdam, reiciendis odio laboriosam?
+      Followtheboat is a unique travel blog that focuses on a specific mode of transport: sailing. 
+
+      It is created with love by a travel writer Liz Cleere and photographer Jamie Furlong. There’s also Millie the rescue cat, which functions as a source of inspiration and encouragement for the blog’s human founders. 
+
+      Despite the focus on sailboats, Followtheboat’s content isn’t just made for sailors. The posts are tailor-made for travelers who also happen to be interested in the art and joys of sailing. 
+
+      Don’t be surprised at the humor and dynamic range of topics on the blog. You’ll find posts like “tools you need on a sailboat” and “is this the weirdest loo in the world?”
+
+      Followtheboat also has a library of podcasts, which record Liz and Jamie’s experiences on their travels. 
       </p>
     </div>
   );

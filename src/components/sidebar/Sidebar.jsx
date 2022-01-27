@@ -7,12 +7,11 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg"
+          src="https://images.pexels.com/photos/2092474/pexels-photo-2092474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
           alt=""
         />
         <p>
-          Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
-          amet ex esse.Sunt eu ut nostrud id quis proident.
+        A personal blog post, like a personal essay, is where the author discusses their personal experiences, thoughts, and/or opinions. Usually, you’ll find these kinds of posts on personal blogs rather than corporate or professional blogs. However, a blogger who usually publishes other kinds of blog posts might publish personal blog posts from time to time to build a more personal connection with readers. 
         </p>
       </div>
       <div className="sidebarItem">
